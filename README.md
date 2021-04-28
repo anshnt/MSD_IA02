@@ -1,7 +1,7 @@
 
 # Application Development using Microservices in Spring Boot and Spring Clould 🍃☁️
 
-This example is a microservices architecture built with Spring Boot, Spring Cloud and Eureka Server (OKTA). 
+This example is a microservices architecture built with Spring Boot, Spring Cloud , Eureka Server (OKTA) and Zuul. 
 
 **Prerequisites:** [Java 11](https://sdkman.io/sdks#java) and an internet connection.
 
